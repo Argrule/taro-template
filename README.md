@@ -12,6 +12,7 @@ pnpm nw //不开启热更新
 
 ## 页面结构
 
+```md
 pages
 ├── index //首页
 |       ├── index.tsx        //页面
@@ -21,6 +22,7 @@ pages
 ├── forum //论坛
 ├── gather //攒局
 ├── personalCenter //个人中心
+```
 
 - 页面标题等在index.config.js中配置
 - 页面样式在index.scss中配置
