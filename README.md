@@ -19,7 +19,7 @@ pages
 ├── forum //论坛
 ├── gather //攒局
 ├── personalCenter //个人中心
-
+```
 ```md
 pages
 └──index //首页
